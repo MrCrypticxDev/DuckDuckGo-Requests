@@ -1,2 +1,2 @@
 # DuckDuckGo-Requests
-A little Script that helps you make DuckDuckGo requests via your terminal.
+Not much to be said but, all you need to do is install the `puppeteer` package then run `npm init -y` then you're good to go.😛
